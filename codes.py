@@ -4,9 +4,6 @@ from bs4 import BeautifulSoup
 import time 
 import re
 
-
-# ilaçlar hakkında bilgi al. 
-# acil bir durumda gidilecek yerleri bul.
 class Uygulama():
     def __init__(self):
         self.dongu= True
