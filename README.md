@@ -6,5 +6,5 @@ I'm using Beautiful Soap to access the UK National Health Service, and then I wa
 
 My goal with this project is to collect all the emergencies and medicines you are curious about. Then I want to visualise it, and through this visualisation I want to make different kinds of inferences, for example, learning about emergencies in certain months of the year.
 
-Thanks for reading this. If you have any advice, you can reach me by mail. 
+Thanks for reading this. If you have any advice, you can reach me by mail 
 suheylglnc1@gmail.com
